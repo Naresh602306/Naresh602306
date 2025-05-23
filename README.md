@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naresh602306
 - 👀 I’m interested in Software testing and web development
-- 🌱 I’m currently learning dart and flutter
+- 🌱 I’m currently lerning Fullstack java development
 - 💞️ I’m looking to collaborate on @naresh602306
 - 📫 How to reach me in Instagram naresh007
 - 😄 Pronouns: Naresh R
