@@ -1,6 +1,6 @@
 👀 Interested in: Software Testing, Web Development, and Frontend-Backend Integration
 
-🌱 Currently Learning: Full Stack Java Development (Java, Spring Boot, Angular/React, MySQL)
+🌱 Currently Learning: Full Stack C# Development
 
 🤝 Open to Collaborate on real-time web projects and testing assignments
 
